@@ -14,9 +14,9 @@ class MainActivity : AppCompatActivity() {
     fun thisIsANewMethod() {
 
 		System.out.println("Hallo vom Member 1");
+	System.out.println("Hallo vom Member 1, Line 1");
 
-		System.out.println("Hallo vom Member 1, Line 1");
-		System.out.println("Hallo vom Member 1, Line 2");
+
         System.out.println("Hallo Methode von Member 2")
     }
 
