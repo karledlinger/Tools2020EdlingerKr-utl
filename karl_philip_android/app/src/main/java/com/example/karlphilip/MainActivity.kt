@@ -18,5 +18,9 @@ class MainActivity : AppCompatActivity() {
         System.out.println("Hallo Methode von Member 2")
     }
 
+    fun testMethod1() {
+        System.out.println("Hallo Test1 von Member 2")
+    }
+
 
 }
