@@ -9,6 +9,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 		System.out.println("Hallo vom Member 1");
+	   	System.out.println("Hallo vom anderem Team");
     }
 
     fun thisIsANewMethod() {
